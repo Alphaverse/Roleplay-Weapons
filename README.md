@@ -6,7 +6,7 @@ To add a weapon you simply copy an existing weapon and modify the values you wan
 Please respect the code styling when editing files.
 
 ---
-### Controls
+## Controls
 - **LMB**			- Shoot when aimed
 - **RMB (Hold)**	- Aim
 - **USE + LMB**		- Toggle single fire/automatic fire
