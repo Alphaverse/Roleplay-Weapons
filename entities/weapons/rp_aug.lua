@@ -42,6 +42,7 @@ SWEP.RedDot						= false
 SWEP.ScopeZoom					= 60
 SWEP.ScopeTime					= 0.3
 
+-- Weapon icon info
 if CLIENT then
 	SWEP.WepSelectIcon			= surface.GetTextureID("weapons/aug")
 end

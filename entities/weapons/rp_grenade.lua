@@ -25,7 +25,7 @@ SWEP.WorldModel					= "models/weapons/w_eq_fraggrenade.mdl"
 SWEP.Primary.Ammo				= "Frag Grenade"
 SWEP.GrenadeType				= "rp_ent_grenade"
 
--- Weapon icon
+-- Weapon icon info
 if CLIENT then
 	SWEP.WepSelectIcon			= surface.GetTextureID("weapons/grenade")
 end

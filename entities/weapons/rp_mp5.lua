@@ -39,6 +39,7 @@ SWEP.Sound_Single				= Sound("Weapon_MP5Navy.Single")
 SWEP.IsHeavyWeapon				= true
 SWEP.HasSuppressor				= false
 
+-- Weapon icon info
 if CLIENT then
 	SWEP.WepSelectIcon			= surface.GetTextureID("weapons/mp5")
 end

@@ -40,6 +40,7 @@ SWEP.Sound_Suppressed			= Sound("Weapon_USP.SilencedShot")
 SWEP.IsHeavyWeapon				= false
 SWEP.HasSuppressor				= true
 
+-- Weapon icon info
 if CLIENT then
 	SWEP.WepSelectIcon			= surface.GetTextureID("weapons/usp")
 end

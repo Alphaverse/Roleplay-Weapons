@@ -25,7 +25,7 @@ SWEP.WorldModel					= "models/weapons/w_eq_flashbang.mdl"
 SWEP.Primary.Ammo				= "Flashbang"
 SWEP.GrenadeType				= "rp_ent_flash"
 
--- Weapon icon
+-- Weapon icon info
 if CLIENT then
 	SWEP.WepSelectIcon			= surface.GetTextureID("weapons/flash")
 end

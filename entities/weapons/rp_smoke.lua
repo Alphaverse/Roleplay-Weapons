@@ -25,7 +25,7 @@ SWEP.WorldModel					= "models/weapons/w_eq_smokegrenade.mdl"
 SWEP.Primary.Ammo				= "Smoke Grenade"
 SWEP.GrenadeType				= "rp_ent_smoke"
 
--- Weapon icon
+-- Weapon icon info
 if CLIENT then
 	SWEP.WepSelectIcon			= surface.GetTextureID("weapons/smoke")
 end

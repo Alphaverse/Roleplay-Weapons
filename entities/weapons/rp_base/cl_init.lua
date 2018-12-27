@@ -1,6 +1,6 @@
 include("shared.lua")
 
--- Weapon selection menu info
+-- Weapon icon info
 SWEP.WepSelectIcon = surface.GetTextureID("weapons/swep")
 
 -- Variables for weapon lowering

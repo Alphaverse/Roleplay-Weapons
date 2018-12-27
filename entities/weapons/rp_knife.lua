@@ -32,6 +32,7 @@ SWEP.Sound_Miss					= Sound("Weapon_Knife.Slash")
 SWEP.Damage						= 40
 SWEP.DamageType					= DMG_SLASH
 
+-- Weapon icon info
 if CLIENT then
 	SWEP.WepSelectIcon			= surface.GetTextureID("weapons/knife")
 end
