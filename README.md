@@ -7,10 +7,10 @@ Please respect the code styling when editing files.
 
 ---
 ## Controls
-- **LMB**			- Shoot when aimed
-- **RMB (Hold)**	- Aim
-- **USE + LMB**		- Toggle single fire/automatic fire
-- **USE + RMB**		- Attach/Detach Suppressor
+- **LMB** - Shoot when aimed
+- **RMB (Hold)** - Aim
+- **USE + LMB** - Toggle single fire/automatic fire
+- **USE + RMB** - Attach/Detach Suppressor
 
 ---
 # License
@@ -19,4 +19,4 @@ This weapon pack is licensed under the [MIT License](https://github.com/Arkten/R
 ---
 # Contributing
 To contribute simply open a pull request or create an issue for others to discuss and possibly fix.
-If you submit files make sure you use Windows Line Endings (CRLF) and hard tabs (4 spaces).
+If you submit files make sure you use the preferences from `.editorconfig`.
